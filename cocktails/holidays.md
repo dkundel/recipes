@@ -1,8 +1,8 @@
 # Holiday Cocktail Stream
 
 ## Info
-**When?** Sunday Dec 20, 3pm PT
-**Where?** twitch.tv/dkundel
+- **When?** Sunday Dec 20, 3pm PT
+- **Where?** twitch.tv/dkundel
 
 ## Shopping List
 
@@ -65,17 +65,17 @@ Notes: If you don't want left over alcohol, you can often get smaller bottles at
 Place Glühwein into a put and place on low heat onto the stove and heat up until reduced by half. Higher heat can speed up the process but be careful to not bring it to a boil to avoid a change in taste. Bottle and store in the fridge.
 
 ### Simple Syrup / Sugar Syrup
-100g white sugar
-100g warm water
+- 100g white sugar
+- 100g warm water
 
 Mix ingredients together until dissolved. Bottle and store in the fridge.
 
 ### Vanilla Syrup
 Take some of your simple syrup and mix with a few drops of vanilla extract or other source of vanilla until you have a vanilla flavor without it being overpowering.
 Sweetened Condensed Milk Stock
-100g sweetened condensed milk (or sweetened condensed coconut milk)
-100g warm water
-2g salt
+- 100g sweetened condensed milk (or sweetened condensed coconut milk)
+- 100g warm water
+- 2g salt
 
 Mix ingredients until properly mixed. Bottle and store in the fridge.
 
@@ -83,42 +83,43 @@ Mix ingredients until properly mixed. Bottle and store in the fridge.
 ### Apple Pie Mimosa (non-alcoholic)
 This cocktail is a modification of the Aviary's Key Lime Pie Mimosa turned non-alcoholic. 
 
-1oz (30ml) sweetened condensed milk stock
-3/4oz (22.5ml) lime juice
-1/2oz (15ml) vanilla syrup
-3oz (90ml) of Martinelli's sparkling apple cider
-1 graham cracker
+- 1oz (30ml) sweetened condensed milk stock
+- 3/4oz (22.5ml) lime juice
+- 1/2oz (15ml) vanilla syrup
+- 3oz (90ml) of Martinelli's sparkling apple cider
+- 1 graham cracker
 
 Add all ingredients except the apple cider into a shaker and shake over ice. Pour into a champagne flute or similar glass and top up with the apple cider. Grate graham cracker over cocktail for garnish.
 
 ### Winter in Manhattan (contains alcohol)
 One of my favorite cocktails is a classic Manhattan. This cocktail is a twist on it but bringing classic winter flavors into play.
 
-2oz (60ml) Rye Whiskey
-1oz (30ml) Glühwein reduction
-1/2oz (15ml) Dry Vermouth
-1tsp simple syrup
-1 dash Angostura bitters
-2 dash Old Fashioned bitters
-Garnish: Orange peel and whole cloves
+- 2oz (60ml) Rye Whiskey
+- 1oz (30ml) Glühwein reduction
+- 1/2oz (15ml) Dry Vermouth
+- 1tsp simple syrup
+- 1 dash Angostura bitters
+- 2 dash Old Fashioned bitters
+- Garnish: Orange peel and whole cloves
 
 Add all ingredients into a glass with ice and stir until chilled (20-30 sec). Strain into cocktail glass, express the orange peel over it, add holes in the orange peel and add 3-4 whole cloves in it. Add on top of the cocktail.
 
 ### Sour Christmas (contains alcohol)
 I love New York Sours and when I was cooking a Christmas dinner last year with my partner we were experimenting with using a Glühwein reduction in a pan sauce. When it came to making a cocktail to accompany it, I went with this twist on a New York sour. 
 
-2oz (60ml) Bourbon
-3/4oz (22.5ml) lemon juice
-3/4oz (22.5ml) simple syrup
-1/2oz (15ml) Glühwein reduction
+- 2oz (60ml) Bourbon
+- 3/4oz (22.5ml) lemon juice
+- 3/4oz (22.5ml) simple syrup
+- 1/2oz (15ml) Glühwein reduction
 
 Shake all ingredients except the Glühwein reduction in a shaker with ice. Strain into a double old fashioned glass with ice and float the Glühwein reduction on top.
 
 ### Sour Christmas (0% ABV)
 If you want to try the cocktail above but don't want to consume alcohol, you got two options. The closest you can get to this, is by using a non-alcoholic spirit such as Ritual Whiskey Alternative. It hits a lot of the same notes as a Bourbon (incl. the burn). But if that's not your jam or you don't want to spend money, this is the recipe for you. Since we lose the complexity from the Bourbon, we are swapping the simple syrup for a richer version using Demerara syrup.
-1.5oz (45ml) lemon juice
-1.5oz (45ml) Demerara syrup (same ratio as simple syrup)
-splash of water (or shake really long)
-1/2oz (15ml) - 3/4oz (22.5ml) Glühwein reduction (from non-alcoholic Glühwein)
+
+- 1.5oz (45ml) lemon juice
+- 1.5oz (45ml) Demerara syrup (same ratio as simple syrup)
+- splash of water (or shake really long)
+- 1/2oz (15ml) - 3/4oz (22.5ml) Glühwein reduction (from non-alcoholic Glühwein)
 
 Shake all ingredients except the Glühwein reduction in a shaker with ice. Strain into a double old fashioned glass with ice and float the Glühwein reduction on top.
