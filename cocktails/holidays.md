@@ -3,6 +3,7 @@
 ## Info
 - **When?** Sunday Dec 20, 3pm PT
 - **Where?** twitch.tv/dkundel
+- **Questions?** https://instagram.com/cocktail.and.code
 
 ## Shopping List
 
